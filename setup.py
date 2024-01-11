@@ -6,10 +6,10 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "Redwine-Quality"
-AUTHOR_USER_NAME = "medisetti-jayakumar"
+REPO_NAME = "End-to-end-ML-Project-Implementation"
+AUTHOR_USER_NAME = "entbappy"
 SRC_REPO = "mlProject"
-AUTHOR_EMAIL = "medisettijayakumar@gmail.com"
+AUTHOR_EMAIL = "entbappy73@gmail.com"
 
 
 setuptools.setup(
